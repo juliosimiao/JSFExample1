@@ -1,1 +1,3 @@
-# JSFExample1
+# JSF
+
+Example of library application using JSF
